@@ -1,7 +1,7 @@
 # 👋 Hey! Nice to see you.
 
 Welcome to my page!<br>
-I'm **Makar**, Backend-Go developer from **Moscow, Russia**.
+I'm **Makar**, Backend developer from **Moscow, Russia**.
 
 ---
 
